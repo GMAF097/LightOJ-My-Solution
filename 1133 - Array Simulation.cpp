@@ -6,7 +6,7 @@ vector < ll > a;
 int main()
 {
     //ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
-    /// fergrgrgtrhth
+   
     ll t; cin >> t;
     ll r = 1;
     while(t--)
